@@ -2,6 +2,12 @@
 
 ## 프로젝트 사용법
 
+이 템플릿 사용은 압축 파일을 다운로드해서 사용하거나 아래 명령어를 터미널에 입력해서 사용한다.
+
+```shell
+git clone https://github.com/nowgnas/project-template.git
+```
+
 ### 패키지 설치
 
 먼저 root 경로 터미널에서 `yarn install`로 backend에 필요한 의존성을 설치해 준다. 다음으로 `cd client`로 터미널 경로를 `/client`로 변경 후 동일한 명령어로 frontend에 필요한 의존성을 설치해 준다.
